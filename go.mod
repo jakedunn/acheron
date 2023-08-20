@@ -1,3 +1,3 @@
-module github.com/f1zm0/acheron
+module github.com/jakedunn/acheron
 
 go 1.20
